@@ -11,4 +11,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 
-### This project is built using React JS using the Open Weather Map API to make calls to a restful api to return the current weather data. Utilized Modern Javascript Fetch AP along with React hooks and conditonals
+This project is built using React JS using the Open Weather Map API to make calls to a restful api to return the current weather data. <br />
+Utilized Modern Javascript Fetch AP along with React hooks and conditonals <br />
